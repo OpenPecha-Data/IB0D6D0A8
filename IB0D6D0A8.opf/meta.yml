@@ -1,0 +1,16 @@
+id: IB0D6D0A8
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:08:05.388442
+last_modified: 2023-02-10 00:08:05.388655
+source_metadata:
+  title: 'MSV 3,01: Bhikṣuṇīvibhaṅga'
+  language: bo
+bases:
+  15AC:
+    base_file: 15AC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

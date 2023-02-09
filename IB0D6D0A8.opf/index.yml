@@ -1,0 +1,11 @@
+id: 966a12728fb441e4b14f1c0f3caa6ed3
+annotation_type: index
+revision: '00001'
+annotations:
+  d9013114efba49468e184a64c7634b83:
+    base: 15AC.txt
+    Chapters:
+    - title: Bhikṣuṇīvibhaṅga
+      span:
+        start: 0
+        end: 249847
